@@ -8,7 +8,7 @@ body{
 }
 
 canvas{
-    margin-top: 200px;
+    margin-top: 150px;
     box-shadow: black 20px 10px 50px;
 }
 
@@ -17,4 +17,18 @@ p{
     font-size: 50px;
     color: black;
     margin-top: 50px;
+}
+
+#coords{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+}
+
+#coordsText{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
 }
